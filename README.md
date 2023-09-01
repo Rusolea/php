@@ -1,4 +1,3 @@
-# php
 # PHP y AJAX Ejercicios
 
 Este repositorio contiene varios ejercicios de PHP y AJAX.
